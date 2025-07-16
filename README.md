@@ -1,2 +1,2 @@
 # World-Layoffs
-A Project in SQL to analyze Layoffs each previous years
+Analyzed global layoffs data using SQL to uncover trends across companies, industries, and time. Cleaned and transformed raw data, aggregated layoffs by company and year, identified top affected firms, and explored seasonal patterns. Used common table expressions (CTEs), subqueries, joins, and window functions to derive insights. Focused on practical data analyst skills like querying, filtering, and summarizing real-world datasets.
